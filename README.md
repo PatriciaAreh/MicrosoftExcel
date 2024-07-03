@@ -13,4 +13,9 @@ Transformar y visualizar los datos que permita a los propietarios dela tienda ob
   
 2. Bajo rendimiento en la categoria de electronica.
    - Esta categoria ha esperimentado una disminución constante en las ventas al compararla con otras como ropa y belleza.
+     
 ![Captura de Pantalla 2024-07-02 a la(s) 20 43 02](https://github.com/PatriciaAreh/MicrosoftExcel/assets/174209116/b895188d-82b9-4746-bfb9-6007efcc7af6)
+
+
+### Código utilizado en el análisis
+``` SELECT * FROM table ```
